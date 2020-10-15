@@ -1,2 +1,2 @@
 # superlongurltest
-Testing deployment in AQS using subdomains via route 53
+Testing deployment in AWS using subdomains via route 53
